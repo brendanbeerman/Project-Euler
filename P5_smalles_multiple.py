@@ -47,6 +47,5 @@ def smallest_power(y, r):
 limit = 20
 primes = [2]
 primes = find_primes(primes, limit)
-print(primes)
 print(smallest_multiple(primes, limit))
 
