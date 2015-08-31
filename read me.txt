@@ -5,10 +5,13 @@ These problems are taken from the project euler website, https://projecteuler.ne
 Basically it is a series of math problems that are solved using programming.
 For more information read the about page on their site.
 
-The source code for each problem contains comments and descriptions of the problems. 
+The source code for each problem contains comments and the descriptions of each problem. 
 
 Execution
 ---------
 
-So far all the problems have been solved using python, using version 3.4.
-But they just need to be ran and then they will spit out the answer.
+So far most of the problems have been solved using python, using version 3.x.
+They can be ran with any python interpreter and then they will print out the answer.
+
+One of them, problem 16, was finished with Java. 
+Using a Java IDE or javac would be necessary to compile and run the program
